@@ -13,9 +13,10 @@
 ---
 
 ## 📌 Projects
-🔹 [ATM Simulator in C](https://github.com/samuthra162005/ATM-SIMULATOR-C-PROGRAMMING) – Menu-driven C program with PIN-based authentication.  
-🔹 [Agri Connect](https://github.com/samuthra162005/expense-tracker) – MERN stack project to connect farmers and buyers.  
-🔹 [Automated Habit Tracker in Excel](https://github.com/samuthra162005/health-tracker) – Excel automation with checkboxes, progress bar, and reports.  
+## 📂 Projects
+🔹 [ATM Simulator in C](https://github.com/samuthra162005/ATM-SIMULATOR-C-PROGRAMMING) – Menu-driven ATM simulation with PIN authentication.  
+🔹 [Health Tracker](https://github.com/samuthra162005/health-tracker) – Web app for tracking health details like weight, blood pressure, and sugar levels.  
+🔹 [Expense Tracker](https://github.com/samuthra162005/expense-tracker) – React app to track daily expenses with clean UI and chart visualization.  
 
 ---
 
